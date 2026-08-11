@@ -1,2 +1,2 @@
-# Upgraded from 2.0.6 to 5.1.1 on September 4, 2024 due to a security vulnerability. Note that this is not in production anywhere.
-Django~=5.1.1
+# Upgraded to django>=5.2.16 on August 11, 2026 due to a Dependabot alert. Note that this is not in production anywhere.
+django>=5.2.16
